@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\86158\source\repos\213428010122吴平泽题目1\213428010122吴平泽题目1\源.cpp(19,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\86158\source\repos\213428010122吴平泽题目1\213428010122吴平泽题目1\源.cpp(33,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\source\repos\213428010122吴平泽题目1\213428010122吴平泽题目1\源.cpp(33,43): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86158\source\repos\213428010122吴平泽题目1\213428010122吴平泽题目1\源.cpp(34,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86158\source\repos\213428010122吴平泽题目1\213428010122吴平泽题目1\源.cpp(34,43): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  213428010122吴平泽题目1.vcxproj -> C:\Users\86158\source\repos\213428010122吴平泽题目1\x64\Debug\213428010122吴平泽题目1.exe
